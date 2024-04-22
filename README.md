@@ -11,6 +11,8 @@ $$ T(n) =
     \end{cases}
 $$
 
+$\Theta(1)$
+
 2.
 $$ T(n) =
     \begin{cases}
@@ -19,6 +21,8 @@ $$ T(n) =
     \end{cases}
 $$
 
+$\Theta(n)$
+
 3.
 $$ T(n) =
     \begin{cases}
@@ -26,3 +30,5 @@ $$ T(n) =
         13 T\left(\frac{n}{13}\right) + 2n & n > 1
     \end{cases}
 $$
+
+$\Theta(n \log n)$
