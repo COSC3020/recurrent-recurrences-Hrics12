@@ -11,7 +11,7 @@ $$ T(n) =
     \end{cases}
 $$
 
-$\Theta(1)$
+$\Theta log(n)$
 
 2.
 $$ T(n) =
